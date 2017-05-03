@@ -38,7 +38,8 @@
 - [Chrome Dev Tools trick](http://stackoverflow.com/questions/33997443/how-can-i-view-network-requests-for-debugging-in-react-native/38063958#38063958) to see the requests and display the console logs and stop the code on debugger statements
 - [Redux DevTools](https://github.com/gaearon/redux-devtools) - Vue DevTools like Chrome extension
 
-
+### Design tips
+- [How to not suck at design, a 5 minute guide for the non-designer](https://medium.com/startup-grind/how-to-not-suck-at-design-a-5-minute-guide-for-the-non-designer-291efac43037)
 
 ### Motivation
 The community around React-Native gets very big and keeps growing, the technology is not going away any time soon and I would definitely recommend any web developer who wants to create a mobile app to forget about Cordova and give it a try.
